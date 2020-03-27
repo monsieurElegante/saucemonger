@@ -10,3 +10,4 @@ const Value = new Schema(
 );
 
 export default Value;
+
