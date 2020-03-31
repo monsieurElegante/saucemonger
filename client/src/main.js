@@ -2,6 +2,9 @@ import Vue from 'vue'
 import App from './App.vue'
 import router from './router'
 import store from './store'
+// TODO Add Authentication
+// import AuthService from "./AuthService"
+// NOTE I can try to integrate Auth0 manually
 
 Vue.config.productionTip = false
 
